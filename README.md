@@ -1,1 +1,1 @@
-# Latihan.github.io
+# Latihan
